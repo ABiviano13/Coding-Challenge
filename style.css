@@ -1,0 +1,75 @@
+body{
+  background-image: url(file:///Users/pain/Desktop/Boolean/CSS/Cooding%20Challange-%20Scooter%20Lim%20/sfondosito.jpg);
+  background-size:cover;
+  font-family: "Poppins", sans-serif;
+}
+
+.contenitore{
+  background-color: black;
+  opacity: 80%;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 40%;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top:3%;
+  padding: 5%;
+  text-align: center;
+}
+
+/* Caratteristiche Logo e Titolo */
+header > img{
+  width: 200px;
+  height: auto;
+}
+
+h1{
+  font-size: 25px;
+  color: rgb(0%,90%,10%);
+}
+
+/* Caratteristiche bottoni prenotazione*/
+nav {
+  text-align: center;
+  background-color: rgb(0%,90%,10%);
+  width: 100%;
+  padding: 1%;
+  margin: auto;
+}
+
+/* Caratteristiche offerte */
+main {
+text-align: left;
+color: white;
+}
+
+section > div{
+  font-size: 13px;
+}
+
+#Colore1{
+  width: 45%;
+  background-color: #ff9d59;
+  border:1px;
+  border-radius: 3px;
+}
+
+#Colore2{
+  width: 80%;
+  background-color: #00c70d;
+  border:1px;
+  border-radius: 3px;
+}
+
+#Colore3{
+  width: 25%;
+  background-color:#c71648;
+  border:1px;
+  border-radius: 3px;
+}
+
+/* Caratteristiche Crediti */
+footer{
+  color: white;
+  font-size: 10px;
+}
